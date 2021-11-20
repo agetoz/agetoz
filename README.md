@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agetoz / @gigu.id on Instagram (Don't forget to follow)
-- 🌱 I’m currently learning Code, CMS, etc.
+- 🌱 I’m currently learning Code, Framework, CMS, etc.
 - 📫 How to reach me, just email on agetoz@yahoo.com
 
 <!---
